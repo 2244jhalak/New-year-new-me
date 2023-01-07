@@ -86,3 +86,20 @@ footer {
 .icon {
     color: green;
 }
+
+#my-plans {
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.my-goal {
+    text-align: center;
+}
+
+.logo {
+    padding-left: 5px;
+}
+
+#my-plans img {
+    padding-left: 10px;
+}
