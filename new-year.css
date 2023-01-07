@@ -66,3 +66,23 @@ footer {
     font-weight: 1200;
     margin-top: 20px;
 }
+
+#person {
+    background-image: url(images/person.png);
+    background-position: left bottom;
+    background-repeat: no-repeat;
+    padding-left: 500px;
+
+    height: 720px;
+}
+
+#failure {
+    padding-left: 150px;
+    padding-right: 150px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.icon {
+    color: green;
+}
